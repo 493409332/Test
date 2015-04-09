@@ -1,0 +1,51 @@
+
+*****   IHostBufferPolicySelector   ************************* 2014-10-17 12:21:48
+*****   ModelMetadataProvider   ************************* 2014-10-17 12:21:48
+*****   ModelValidatorProvider   ************************* 2014-10-17 12:21:48
+*****   ITraceManager   ************************* 2014-10-17 12:21:48
+*****   ITraceWriter   ************************* 2014-10-17 12:21:48
+*****   IHttpControllerSelector   ************************* 2014-10-17 12:21:48
+*****   IAssembliesResolver   ************************* 2014-10-17 12:21:48
+*****   IHttpControllerTypeResolver   ************************* 2014-10-17 12:21:48
+*****   IHttpControllerActivator   ************************* 2014-10-17 12:21:48
+*****   Default1Controller   ************************* 2014-10-17 12:21:48
+Login
+Request
+Configuration
+ControllerContext
+ModelState
+Url
+User
+*****   IHttpActionSelector   ************************* 2014-10-17 12:21:48
+*****   IActionValueBinder   ************************* 2014-10-17 12:21:48
+*****   ModelBinderProvider   ************************* 2014-10-17 12:21:48
+*****   ValueProviderFactory   ************************* 2014-10-17 12:21:48
+*****   IBodyModelValidator   ************************* 2014-10-17 12:21:48
+*****   IFilterProvider   ************************* 2014-10-17 12:21:48
+*****   IHttpActionInvoker   ************************* 2014-10-17 12:21:48
+*****   IContentNegotiator   ************************* 2014-10-17 12:21:48
+*****   IHostBufferPolicySelector   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   ModelMetadataProvider   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   ModelValidatorProvider   ************2014-10-17 12:24:30************* IoCContainer public IEnumerable<object> GetServices(Type serviceType)
+*****   ITraceManager   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   ITraceWriter   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   IHttpControllerSelector   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   IAssembliesResolver   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   IHttpControllerTypeResolver   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   IHttpControllerActivator   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   Default1Controller   ************2014-10-17 12:24:30************* ScopeContainer public object GetService(Type serviceType)
+Login
+Request
+Configuration
+ControllerContext
+ModelState
+Url
+User
+*****   IHttpActionSelector   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   IActionValueBinder   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   ModelBinderProvider   ************2014-10-17 12:24:30************* IoCContainer public IEnumerable<object> GetServices(Type serviceType)
+*****   ValueProviderFactory   ************2014-10-17 12:24:30************* IoCContainer public IEnumerable<object> GetServices(Type serviceType)
+*****   IBodyModelValidator   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   IFilterProvider   ************2014-10-17 12:24:30************* IoCContainer public IEnumerable<object> GetServices(Type serviceType)
+*****   IHttpActionInvoker   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
+*****   IContentNegotiator   ************2014-10-17 12:24:30************* IoCContainer public object GetService(Type serviceType)
